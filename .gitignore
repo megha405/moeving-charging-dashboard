@@ -1,0 +1,9 @@
+# Raw data files — keep off GitHub (embedded in dashboard already)
+*.xlsx
+*.xls
+TATAUSER_DETAILS_REPORT*.csv
+Statiq_sessions*.csv
+JIo*ChargingSummary*.csv
+MoEVing*KPI*.csv
+
+# Keep only the generated dashboard and generator script
